@@ -51,7 +51,7 @@ export default function Book({ navigation }) {
       />
 
       <TouchableOpacity onPress={handleSubmit} style={styles.button}>
-        <Text style={styles.buttonText}>Solicitar reservar</Text>
+        <Text style={styles.buttonText}>Solicitar reserva</Text>
       </TouchableOpacity>
 
       <TouchableOpacity
