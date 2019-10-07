@@ -9,7 +9,7 @@ API foi construída utilizando o NodeJS e o banco de dados MongoDB para servir o
 Finalizamos o projeto com uma mensagem de requisição de agendamento em tempo real utilizando o Socket.io.
 
 
-### **_FRONT-END_**
+### **_WEB_**
 - Login
 ![tela-login](https://user-images.githubusercontent.com/47895394/66323657-81e13980-e8fa-11e9-8130-e2de543b03ff.png)
 
